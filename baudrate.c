@@ -36,6 +36,8 @@ int main(int argc, char *argv[]) {
   }
 
   int baud = atoi(argv[1]);
+
+  printf("Simulated baud rate set to %d baud\n",baud);
   while ((c = getch()) != (EOF & 0xff)) {
     putchar(c);
     fflush(stdout);

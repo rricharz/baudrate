@@ -33,9 +33,8 @@ To use it together with cool-retro-term:
     cool-retro-term
     Now you can use any of the examples above
 
-For using cool-retro-term on the PiDP-11, look at
-
-    https://github.com/rricharz/pidp11-2.11bsd/blob/master/Cool.pdf
+To use cool-retro-term on the PiDP-11, look at
+https://github.com/rricharz/pidp11-2.11bsd/blob/master/Cool.pdf
   
   
 
