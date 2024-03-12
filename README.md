@@ -10,6 +10,11 @@ line. This program adds this feature. It also works together with
 the standard terminal (console), and any program producing
 output on stdout.
 
+Video showing baudrate used together with cool-retro-term, connecting to
+a simulated PDP-11 running 2.11 BSD:
+
+https://www.youtube.com/watch?v=RUKjzGCJkUs
+
 Installation:
 
     git clone https://github.com/rricharz/baudrate.git
