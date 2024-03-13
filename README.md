@@ -41,14 +41,14 @@ To use it together with cool-retro-term:
 To use cool-retro-term on the PiDP-11, look at
 https://github.com/rricharz/pidp11-2.11bsd/blob/master/Cool.pdf
 
-    If cool-retro-term is used with SimH, there is also another
-    solution available to limit the baud rate. But limiting the
-    baud rate at the terminal side with baudrate is typically
-    less choppy.
+If cool-retro-term is used with SimH, there is also another
+solution available to limit the baud rate. But limiting the
+baud rate at the terminal side with baudrate is typically
+less choppy.
 
-    Using 2.11 BSD or some other Unix operation system:
-    "stty" shows the current baus rate
-    "stty 1200" for example, sets the baudrate
+    Using 2.11 BSD:
+    "stty" shows the current baud rate
+    "stty 4800" for example, sets the baudrate
 
     Using RSX:
     "SET /SPEED=T1:9600:9600" (MCR)
